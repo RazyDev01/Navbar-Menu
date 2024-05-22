@@ -1,7 +1,5 @@
 # Navbar-Menu
 
-#Kurulum;
-https://streamable.com/kg0cv7
 
 
 
