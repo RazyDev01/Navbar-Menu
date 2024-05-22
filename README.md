@@ -1,5 +1,6 @@
-# Navbar-Menu
- 
- # KURULUM VİDEOSU
+// Duman Host
+// https://dumanhost.net
+// https://discord.gg/RM59DBQq6P
 
-https://streamable.com/kg0cv7
+// Best Development
+// https://discord.gg/Y6m86ydB
